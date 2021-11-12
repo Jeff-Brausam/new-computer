@@ -128,9 +128,6 @@ brew cask install zoomus
 ## Audio / Music
 brew cask install ableton-live-suite
 
-## Password Manager
-brew cask 1password
-
 ## Others
 brew install ffmpeg
 brew install youtube-dl
