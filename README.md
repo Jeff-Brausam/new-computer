@@ -9,7 +9,7 @@ Read the script and install with caution, you may not want what I have
 Open the terminal, then:
 
 ```sh
-bash -c "`curl -L https://git.io/JX5WM`"
+bash -c "`curl -L https://git.io/JX5lw`"
 ```
 
 This command runs the following script:
