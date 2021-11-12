@@ -1,4 +1,4 @@
-# new-computer
+# new-computer installation/backup
 
 My personal installations for my computer, incase it goes into flames one day...
 
