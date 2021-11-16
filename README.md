@@ -1,8 +1,8 @@
 # new-computer installation/backup
 
-My personal installations for my computer, incase it goes into flames one day...
+My personal installations for my computer.
 
-Read the script and install with caution, you may not want what I have 
+Read the script and install with caution.
 
 ## Install from script:
 
