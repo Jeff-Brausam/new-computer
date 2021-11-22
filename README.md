@@ -185,7 +185,7 @@ pip3 install --upgrade pip
 ### Applications outside of brew
 #############################################
 # Node - install nvm (node version mananger) here https://github.com/nvm-sh/nvm
-# Current ZSH theme (for the ./zshrc) - https://github.com/denysdovhan/robbyrussell-node
+# Current ZSH theme - https://github.com/romkatv/powerlevel10k/
 # SeratoDJ - https://serato.com/dj/pro
 
 
