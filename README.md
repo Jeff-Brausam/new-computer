@@ -101,7 +101,6 @@ echo "Starting brew app install..."
 brew cask install dash
 brew install ispell
 
-
 ### Development
 brew cask install docker
 brew cask install insomnia
@@ -136,6 +135,7 @@ brew cask install visual-studio-code
 brew cask install google-chrome
 brew cask install alfred
 brew cask install dropbox
+brew cask install spectacle
 
 ### Chat / Video Conference
 brew cask install slack
@@ -186,7 +186,6 @@ pip3 install --upgrade pip
 #############################################
 # Node - install nvm (node version mananger) here https://github.com/nvm-sh/nvm
 # Current ZSH theme - https://github.com/romkatv/powerlevel10k/
-# VSCode - https://code.visualstudio.com/
 
 #############################################
 ### Non-Development Apps 
