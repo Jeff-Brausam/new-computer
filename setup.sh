@@ -119,6 +119,7 @@ brew cask install visual-studio-code
 brew cask install google-chrome
 brew cask install alfred
 brew cask install dropbox
+brew install --cask amethyst
 
 ### Chat / Video Conference
 brew cask install slack
